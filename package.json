@@ -1,0 +1,16 @@
+{
+  "title": "BadooClicker",
+  "name": "badooclicker",
+  "version": "0.0.1",
+  "description": "automation for more than one week peoples",
+  "main": "index.js",
+  "author": "Antony",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "badoo"
+  ]
+}
